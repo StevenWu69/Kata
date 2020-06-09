@@ -55,6 +55,8 @@
   <ItemGroup>
     <Compile Include="Kata1\Kata1Test.cs" />
     <Compile Include="Kata1\Kata1.cs" />
+    <Compile Include="Kata2\Kata2.cs" />
+    <Compile Include="Kata2\Kata2Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
